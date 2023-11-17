@@ -1,6 +1,6 @@
 {
   "name": "@maherboughdiri/mind-ar-compiler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package of compiler mind-ar-js ",
   "main": "index.js",
   "scripts": {
