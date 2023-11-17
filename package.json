@@ -1,0 +1,34 @@
+{
+  "name": "@maherboughdiri/mind-ar-compiler",
+  "version": "1.0.0",
+  "description": "package of compiler mind-ar-js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mboughdiri/mind-ar-compiler.git"
+  },
+  "keywords": [
+    "mind-ar",
+    "complier",
+    "ar-target",
+    "ar-target creator",
+    ".mind target ",
+    "web AR",
+    "aframe",
+    "web augmented reality",
+    "image tracking"
+  ],
+  "dependencies": {
+    "@msgpack/msgpack": "^2.8.0",
+    "@tensorflow/tfjs": "^4.2.0"
+  },
+  "author": "maher boughdiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mboughdiri/mind-ar-compiler/issues"
+  },
+  "homepage": "https://github.com/mboughdiri/mind-ar-compiler#readme"
+}
